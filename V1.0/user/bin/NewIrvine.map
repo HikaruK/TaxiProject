@@ -1,0 +1,11 @@
+MAP City of New Irvine
+GRID 26 42
+STREET_NAMES_EAST_WEST Antbeater Road, Barracuda Pkwy, Cauliflower Ave, Doc Arthur Blvd, East Main Street, Four Or Five Hours Freeway, Gymboree Road, Hazard Ave, Irvine Classic Drive, Jerkly Ave, Karmans Van Ave, Lawnut Ave, Michelangelo Drive, New Irvine Blvd, Orange Hill Road, Pale Loop, Quail Mill Pkwy, Rectangular Adobe Road, Stand Fourth, Talton Pkwy, University Circle, Verde Palo Road, West Campus Drive, X Roads, Yoming Ave, Z End
+STREET_NAMES_NORTH_SOUTH 1st Street, 2nd Street, 3rd Street, 4th Street, 5th Street, 6th Street, 7th Street, 8th Street, 9th Street, 10th Street, 11th Street, 12th Street, 13th Street, 14th Street, 15th Street, 16th Street, 17th Street, 18th Street, 19th Street, 20th Street, 21st Street, 22nd Street, 23rd Street, 24th Street, 25th Street, 26th Street, 27th Street, 28th Street, 29th Street, 30th Street, 31st Street, 32nd Street, 33rd Street, 34th Street, 35th Street, 36th Street, 37th Street, 38th Street, 39th Street, 40th Street, 41st Street, 42nd Street
+LANDMARK S8(P8,W19) University of New Irvine (UNI)
+LANDMARK D12(D4,I24) Santa Claus Airport (SCA)
+LANDMARK N27(E27,T35) Grand Park
+LANDMARK X36 New Irvine Train Station
+TAXI_STAND D8(12) Taxi Stand A
+TAXI_STAND S8(12) Taxi Stand B
+TAXI_STAND X36(12) Taxi Stand C
